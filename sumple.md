@@ -4,7 +4,7 @@
 統合開発環境の初期設定はプログラミング初心者にとって難易度が高いため、本教材ではブラウザ上で使用できるCloud9の導入方法を学び、これからプログラミング言語を学習する準備をしていきます。
 
 ## 作成するサービスのイメージ
- ![Cloud9](https://drive.google.com/uc?export=view&id=15kaanOWuX9v4if7EXPukBKOnv9es2v1m)
+ ![Cloud9](/image/Cloud9.png)
 
 ## この教材の学習内容
  - AWSのアカウント作成方法
